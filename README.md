@@ -1,2 +1,0 @@
-# Ginixwork
-Hosting on heroku!
